@@ -1,3 +1,12 @@
+/* AH82:
+  * W01D5 - (15) "Sum Array of Numbers" (STRETCH)
+  * https://web.compass.lighthouselabs.ca/activities/574
+  * 
+  * Originally implemented during bootcamp on 2020-02-07
+  * Remote repo created post-bootcamp on 2020-11-20 (due forgotton forking error and time constrains)
+  * Code comments left intentionally for learning/archving purposes
+*/
+
 const sumItems = function(array) {
   // Sum all the numbers in the array
   let sum = 0;
